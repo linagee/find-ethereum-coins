@@ -6,6 +6,7 @@ Contract Address: 0xf4eced2f682ce333f96f2d8966c613ded8fc95dd
 Name: MistCoin
 Symbol: MC
 Decimals: 2
+URL: https://www.reddit.com/r/ethereum/comments/3rcnrx/ethereum_wallet_beta3_contract_deployment_and/cwmuh37
 -----------
 -----------
 Contract Address: 0x853737186cb24d4152f979b9152f652b67f7e9b7
@@ -18,6 +19,7 @@ Contract Address: 0x1130547436810db920fa73681c946fea15e9b758
 Name: bitcoin
 Symbol: btc
 Decimals: 8
+URL: https://www.reddit.com/r/ethereum/comments/3rcnrx/ethereum_wallet_beta3_contract_deployment_and/cwn5bjd
 -----------
 -----------
 Contract Address: 0x796ed7f47e100984e7aa7ca51d55e9b68ecb1c19
