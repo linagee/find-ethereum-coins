@@ -1000,5 +1000,84 @@ Name: Solo Coin
 Symbol: o
 Decimals: 0
 -----------
+-----------
+Contract Address: 0x56a46edc89a0f0e04687cef43229afb43560745c
+Name: leenarium
+Symbol: !
+Decimals: 4
+-----------
+-----------
+Contract Address: 0xcb10bb1d302812c9d9d43d4674dbae93cb33cd2e
+Name: VeganCoin
+Symbol: V
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x0e7db7c15dec9194c7bd2d848d99651c8a1cdfcf
+Name: My DAO Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x0d5781131e377e20b7b8ee5f0231ff8f91b4beb1
+Name: Food Shares
+Symbol: ~
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x6416ea38216f6553f3353ac184b00bf6b1b3eb66
+Name: MATCOIN
+Symbol: MTC
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x35f0a6c669c00ec44e18b8a28a1014b96348333c
+Name: Crossed Pistols Crowd fund.
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xef48f0124a0271eee3347bbebd2cb693b1d0c4cb
+Name: DAO Dollar
+Symbol: $ ��
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xf92bb30f072537a83ec4673feeed228b7c66a97c
+Name: PR-DAO Token
+Symbol: $pr$
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xb7d533ea6aa3d25b70db67e65daf24df256e62bf
+Name: PewCoin
+Symbol: ༅
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xf026ee7062c64189ebc278c5d844505124d6f1a4
+Name: lemon
+Symbol: ��
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x585ab493d42ce9efa3bcbf60111fe53e54b61443
+Name: SC Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x5eebdca5c7ccbd770c4825f97dc46f68e59a31a1
+Name: SCSHARES
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xd5d3fb4b2bbfff43aec1af25efd5e3a8dc1a20b6
+Name: Sierras
+Symbol: %
+Decimals: 2
+-----------
 
-(Stopped it here. The last contract above was in block 887192.)
+
+(Stopped it here. The last contract above was in block 910743.)
