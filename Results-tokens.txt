@@ -1,6 +1,6 @@
 Below are the results of me trying to find tokens in the Ethereum blockchain.
 http://chriseth.github.io/browser-solidity/?gist=20c8b5658349b003b08d
-URL and # of trans added afterward by hand.
+URL and # of trans added afterward by hand. (Did Google searches on the contract address.)
 
 -----------
 Contract Address: 0xf4eced2f682ce333f96f2d8966c613ded8fc95dd
