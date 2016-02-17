@@ -1,5 +1,5 @@
 Below is a the partial results of me trying to find tokens in the Ethereum blockchain.
-I stopped it early before it finished. (Would have taken like 4 hours maybe.)
+URL and # of trans added afterward by hand.
 
 -----------
 Contract Address: 0xf4eced2f682ce333f96f2d8966c613ded8fc95dd
@@ -7,12 +7,14 @@ Name: MistCoin
 Symbol: MC
 Decimals: 2
 URL: https://www.reddit.com/r/ethereum/comments/3rcnrx/ethereum_wallet_beta3_contract_deployment_and/cwmuh37
+Contract # of trans: 32
 -----------
 -----------
 Contract Address: 0x853737186cb24d4152f979b9152f652b67f7e9b7
 Name: bitcoin
 Symbol: btc
 Decimals: 8
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x1130547436810db920fa73681c946fea15e9b758
@@ -20,102 +22,119 @@ Name: bitcoin
 Symbol: btc
 Decimals: 8
 URL: https://www.reddit.com/r/ethereum/comments/3rcnrx/ethereum_wallet_beta3_contract_deployment_and/cwn5bjd
+Contract # of trans: 37
 -----------
 -----------
 Contract Address: 0x796ed7f47e100984e7aa7ca51d55e9b68ecb1c19
 Name: Whitcoin
 Symbol: WHIT
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xdafe447177aefb05dd7edae2f5781c98a858d320
 Name: UniCoin
 Symbol: UNC
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xab3652fd492fbb0d6b63acb742f3ed12afbaef52
 Name: Bizilicas
 Symbol: BiZ
 Decimals: 2
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0xefb1775952642353c0386410212d7638c9fb2426
 Name: EtherMusic
 Symbol: ETM
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x7739e6fc3c9f24c00bdd73106c35ca5aef6bf7f3
 Name: Ethermusic
 Symbol: ETM
 Decimals: 0
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x61557392045e18d409bd5ff8021e7f5fd37467a3
 Name: SMSH
 Symbol: Smashcoin
 Decimals: 1
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x2df8f1448e50fc36969048beea636d5a7cc71c64
 Name: SmashCoin
 Symbol: SMSH
 Decimals: 6
+Contract # of trans: 5
 -----------
 -----------
 Contract Address: 0xa1162cbb7f6cc8f8476c5f4783761302a9abaf69
 Name: Ethereum Unit
 Symbol: ETH
 Decimals: 8
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xf022a69b94fe837f53d2fa1891313aeea22a52be
 Name: Ether
 Symbol: ETH
 Decimals: 8
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x94f27b5141e17dd8816242d752c7be8e6764bd22
 Name: ETHER
 Symbol: ETH
 Decimals: 8
+Contract # of trans: 103
 -----------
 -----------
 Contract Address: 0x9b743992d6a615f686647480b1c1c0c7c024cdf3
 Name: Markoin
 Symbol: Þ
 Decimals: 2
+Contract # of trans: 6
 -----------
 -----------
 Contract Address: 0xa9d4e6da9e2c780ccb01061a7736a162d7b02d6c
 Name: Djannons
 Symbol: δ
 Decimals: 2
+Contract # of trans: 6
 -----------
 -----------
 Contract Address: 0x99e7dc40d6fb46c1f9d40984cc04c85cbcb694d1
 Name: ETHER
 Symbol: ETH
 Decimals: 0
+Contract # of trans: 5
 -----------
 -----------
 Contract Address: 0x143d673520e5ba5efc760d5af4e598126877373b
 Name: DANCOIN
 Symbol: Ð
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xfbe39dde3f88143eda1e64f4d3582fdbdfebb95f
 Name: NextGeneration
 Symbol: NXTGEN
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x3f664313d0041781086c3a51348c2fc644e3b265
 Name: NextGeneration
 Symbol: NXTGEN
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x87adf4d3e1eb630d41405c6ea5c0021c5b6614ff
