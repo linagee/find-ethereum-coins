@@ -1110,6 +1110,7 @@ Contract Address: 0xefd98ff04917ec82822eb5c9576305253bad1a7e
 Name: AyeAyeCoin
 Symbol: %
 URL: http://bitledger.net/account/0xefd98ff04917ec82822eb5c9576305253bad1a7e
+URL: https://www.reddit.com/r/ethereum/comments/3rcnrx/ethereum_wallet_beta3_contract_deployment_and/cz9de9e
 Decimals: 0
 Contract # of trans: 3
 -----------
