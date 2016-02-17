@@ -1407,54 +1407,63 @@ Contract Address: 0xb600f898a3ac9dcf0fe3377757bfac1cfcb639a1
 Name: PumaCoin
 Symbol: %
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xb73b38bff41831a1540e0e0079f911d56a8bf341
 Name: CaseyCoin
 Symbol: CCN
 Decimals: 210
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x74e63de44721c2ffc1d03b3046b1b251f9ed4a90
 Name: Daemon Shares
 Symbol: DAE
 Decimals: 0
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0x8aa3268df8c1f2a57eab6de1729f68aa8749e394
 Name: 1Million
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x05d0d03914a666e5d0703c6f8223765897eda304
 Name: 1
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x552c90ffccaed490854af420550f08cc4e29221a
 Name: eGBP
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x5b2f997ca00f894253c3eafa5de996e08a084e2c
 Name: One
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xccfc13ba528f26876ff49bfa1341f6b4af6b8172
 Name: 1One
 Symbol: %
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xd6cf9401f64b0e5e07038acee12272b9e15ac55e
 Name: OneAndOnly
 Symbol: %
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x57845207101fd09aeb8fb124bfb4060d3a41565b
@@ -1469,42 +1478,49 @@ Contract Address: 0x0f9719154ded7f84f0c5239a7e74804d8522e6a0
 Name: LiquidSDR
 Symbol: LSDR
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x80a8c746ce8f2ebed003bd70e2e9a4a9f17c2539
 Name: MikeShares
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xa3b66e4f316959326adbf73554202da99216dcf9
 Name: Langas
 Symbol: LNG
 Decimals: 0
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x5dbb39024a21bbf8ac5a6be7f4ef899f97acf6dd
 Name: Reserve
 Symbol: RES
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x3ee899136938ef9365e4717b294835c3eaf0deef
 Name: mijnZon
 Symbol: zonnen
 Decimals: 0
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x3abb6f8cee367db4d709fcee18af4c03742c2451
 Name: mijnZonnedak
 Symbol: zon
 Decimals: 0
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0x6aa323340abd0f818b08145e56c20ecac25dcc32
 Name: mijnZonnedak
 Symbol: zon
 Decimals: 0
+Contract # of trans: 4
 -----------
 -----------
 Contract Address: 0x3e6a4c18ac20a8b989c55b0b39fced4e6617e984
@@ -1519,210 +1535,245 @@ Contract Address: 0xe6fe45f04b964a1b63236231ac1e2ea718233236
 Name: InflateCoin
 Symbol: IC
 Decimals: 8
+Contract # of trans: 4
 -----------
 -----------
 Contract Address: 0x3f424a1b66f7571ff5e512411b50398d731e41cc
 Name: TestCoin
 Symbol: %
 Decimals: 1
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xa37844af144b2657cb0fc33c9f2e60dde5544e15
 Name: calluminium
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xf935f0769b02141c010c48bc4e9ab7f9f30d8bd2
 Name: windpark
 Symbol: wind
 Decimals: 0
+Contract # of trans: 5
 -----------
 -----------
 Contract Address: 0x37b8c2ea3de99bee8d7d289c056f7f58d8a77ee7
 Name: Protium
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x95deae40ae9e153de6c860275e457b8655cda900
 Name: Prototype
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xb22fac1a7d968948e432d08f1ad2f5e1eb8119b0
 Name: cascoins
 Symbol: ©
 Decimals: 1
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xb5fec8f31c15e60fb54f5eb7da2ac4295cd81596
 Name: suplulat
 Symbol: ∂
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x194d26307c4ddbcf0dca16e6e36706fcddfb391c
 Name: Martijn's Dollar
 Symbol: M$
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x23b92f5568fc401b4123c9efc68a5ac541de530a
 Name: MintCoin
 Symbol: MC
 Decimals: 8
+Contract # of trans: 4
 -----------
 -----------
 Contract Address: 0xa86acc2d6776136cf5478be3b7bd036742b9cb49
 Name: NonceCoin
 Symbol: NC
 Decimals: 1
+Contract # of trans: 6
 -----------
 -----------
 Contract Address: 0x59bfd39ce27839287e946692f92153d4aa0950d3
 Name: HaHaCoin
 Symbol: HHC
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xee6760ea173d858cd0434b9d5bbd5e9443311e78
 Name: ChydCoin
 Symbol: CC
 Decimals: 2
+Contract # of trans: 15
 -----------
 -----------
 Contract Address: 0x9565d2c2ac56e65ef230c5bac62235613124b723
 Name: NoCoin
 Symbol: NC
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xc86d80c114957b4cf82e8ce87e3f55217688c56d
 Name: CoolCoin
 Symbol: CLC
 Decimals: 2
+Contract # of trans: 13
 -----------
 -----------
 Contract Address: 0x8c0a7fa8dd207e48f1d4863d4e57be5f4e02f0d6
 Name: Mickeycoin
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x71263f269eb32f6d215a738e4d2be4e2b9cc6328
 Name: SwissCoin
 Symbol: Ø
 Decimals: 6
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x82e960e4a224cc9825135881feebfa224605cf3c
 Name: DoubleDoubleCoin
 Symbol: DDC
 Decimals: 8
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xa14034db55ccb6c3cfb939aaa2c1b1b577441d52
 Name: MaxCoin
 Symbol: MAX
 Decimals: 8
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xcd880e88ac14e4b0784de651e7bd845f04fc37bf
 Name: DoubleDoubleCoin
 Symbol: DDC
 Decimals: 8
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x6e724ccc59c1a72f733a31b41c8594413363d80b
 Name: PeopleCoin
 Symbol: PPL
 Decimals: 8
+Contract # of trans: 5
 -----------
 -----------
 Contract Address: 0xba32e80f53e117e35a21470a5d280e48c4b35adf
 Name: VoteKwh
 Symbol: $kwh
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x3cf9b49ae29c1ebfa17053889e58a28af19626c9
 Name: myKwh
 Symbol: $kwh
 Decimals: 0
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xbd247894dc95d7022363ac7c12a507a5db2e689c
 Name: My DAO Shares
 Symbol: %
 Decimals: 2
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0xe0334eb3926210d42e3b6b5739f40d8ab6f5a31c
 Name: XENO
 Symbol: XNO
 Decimals: 3
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x1a3970be1fcfc610a588b268e3f4e8fa8add1076
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x59a273f78e4d22fcde1a254251941a49295c6786
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x1f75047233517dcf67970d9e3c3bb385cb647f30
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0x8cb1f47bf87ba23221053933e10933f92f74105b
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x41a7820c86f4bea29e6c9239aeb0fbdba12dd790
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 4
 -----------
 -----------
 Contract Address: 0x6bbfe039121bc99e907303c533b81f7048e840e6
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xa8c94f66f0c9add0f50ae91bfe985c03b5493511
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xe36905580fa8cc3006c14bafab9d0ecf39c9c124
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xab15f08da9b99cbd2f71922953af9a38942d05ec
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x286ca3a08bb101f142dd459d09379428c3bb9dfe
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x89205a3a3b2a69de6dbf7f01ed13b2108b2c43e7
@@ -1739,84 +1790,98 @@ Contract Address: 0x9cd2d24e90e06d8e2b1edf98fe6296070bf7f88d
 Name: Shaban
 Symbol: SHAB
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x19a448baf5fc09f1f4833af99d323b9f292e71aa
 Name: Sandwich
 Symbol: SAMMICH
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xa43a8a74c1dd2f426c14eae4045aa2aa920fdbb6
 Name: Coffee
 Symbol: COFFEE
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x88dc286a6a95935794f291b2e967be343bc761d3
 Name: Toothpick
 Symbol: TPIC
 Decimals: 0
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0xb1706a602ffed008ba472f51b82b5f85408a14da
 Name: netcoin
 Symbol: NET
 Decimals: 8
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x61c029e089821313f127f5a97febc6a46eae2da6
 Name: Vyktoryan Central Bank Shares
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xef9c4ca954fc6f92c8873b1f37b9d862372b850c
 Name: indicoin
 Symbol: !
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x9b698b6074961b27e919061468001012eb46d2d5
 Name: DoubleDoubleCoin
 Symbol: DDC
 Decimals: 8
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xa07c9bf11cec6d9e10d09164642e76505a07070e
 Name: Vyktoryan Dollar
 Symbol: $
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xcb9df5dc2ed5d7d3972f601acfe35cdbe57341e0
 Name: windKwh
 Symbol: $wind
 Decimals: 0
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0x815a20e51dbf15c1713dd4875bdebb1ba6b1fd2e
 Name: EtherDollar
 Symbol: %
 Decimals: 4
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x598a31c5af1e0cf2b5f7cfd4afbbe16fdf3ec48c
 Name: EtherX Shares
 Symbol: EXS
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x4214a91774c7c82a079a81a5ef108363db1e2961
 Name: EtherDollar
 Symbol: E
 Decimals: 4
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xc580f51ddb0867b4c782103118681176bc87d6f8
 Name: Usabilla Coin
 Symbol: ☺
 Decimals: 1
+Contract # of trans: 3
 -----------
 
 
