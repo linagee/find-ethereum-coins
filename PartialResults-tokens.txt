@@ -1136,6 +1136,158 @@ Name: Sierras
 Symbol: %
 Decimals: 2
 -----------
+-----------
+Contract Address: 0xff8dea935e72c5cff98c4c801301603acc9b1e05
+Name: HamerCoin
+Symbol: HMR
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x865dca32945420de5cc4800b8c3ab4e7fed6bb25
+Name: yuan
+Symbol: cc
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xedc78d340f9c02954ae97a775ca848589f3cf5df
+Name: chinese
+Symbol: RMB
+Decimals: 4
+-----------
+-----------
+Contract Address: 0x8dd3aec378beb08564d3c5f8a30235aefc4906fb
+Name: world
+Symbol: USD
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xda240ab534b9ed69c05a05bdde96cee919b1e2f0
+Name: Paris
+Symbol: LV
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x3ef40935836cb7228730ce99d3aa2526a9bd81ec
+Name: china
+Symbol: ALI
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x9facc2da3aef05a097a9cc1e89b96fd79867b9b5
+Name: USA
+Symbol: apple
+Decimals: 6
+-----------
+-----------
+Contract Address: 0x12b06fe665f2ba537cc9f87e6cf8f79e2d00b482
+Name: NurTesting
+Symbol: $
+Decimals: 3
+-----------
+-----------
+Contract Address: 0x914cda5df7db50e1332528c04fa89417d3f46b40
+Name: luo
+Symbol: cc
+Decimals: 6
+-----------
+-----------
+Contract Address: 0x69f753f4f0b86d0446a952166128ecd8a81fa045
+Name: Tencent
+Symbol: QQ
+Decimals: 4
+-----------
+-----------
+Contract Address: 0x54a05ac054a65066f223f2d6580ddcf8d7ba607e
+Name: Louis Vuitton
+Symbol: LV
+Decimals: 6
+-----------
+-----------
+Contract Address: 0x8190b8977e8fb05cce7ea4bf607876c7aa05f9ab
+Name: Hermès
+Symbol: H
+Decimals: 6
+-----------
+-----------
+Contract Address: 0x06045c36e3c2b44c11b0d9acfa96028eb9fe84e6
+Name: Calvin Klein
+Symbol: CK
+Decimals: 6
+-----------
+-----------
+Contract Address: 0x7c72245f788ff66ad524115630c9ae2bd6ae6e4d
+Name: United Bank of Switzerland
+Symbol: UBS
+Decimals: 4
+-----------
+-----------
+Contract Address: 0x851c23be739f6a7306360c31406b26f8f1e48da2
+Name: VIP
+Symbol: VIP
+Decimals: 4
+-----------
+-----------
+Contract Address: 0x644fe27fbffcc6693e65c0a0c9cb3ba6c89c1239
+Name: ALIPAY
+Symbol: ETHER
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xab1ded81f038b604d584bbc3bb8f7c1f729fd4b8
+Name: PayPal
+Symbol: ETHER
+Decimals: 4
+-----------
+-----------
+Contract Address: 0xc4ed66bec0709a7a949f1aeeafcd256f1bd56114
+Name: USA
+Symbol: ETHER
+Decimals: 6
+-----------
+-----------
+Contract Address: 0xeac9b15cc6462ac8449f714ce29d29c13ae8c4c6
+Name: 巴区科技股票
+Symbol: baqukeji
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x4508e985f66517d72065da4c5c60de3c94f1c9c3
+Name: streamcoin
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x2b5b9de0652886f471f347163431bf70d5450333
+Name: testVUNK
+Symbol: test
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xd257df2aa436340ded8bb6c57daf38906959d232
+Name: PREVNK
+Symbol: V
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xbda249e6f813b2e8fd24f36354d2a9f9529149f1
+Name: TesterToken
+Symbol: TT
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x610f1d4d442fa91f3a9a9797acfa78f7a587f701
+Name: TestIssue
+Symbol: TI
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x3ee7192f069f3ab16077f843f2f469bd327e206c
+Name: PreVNK
+Symbol: V
+Decimals: 0
+-----------
 
 
-(Stopped it here. The last contract above was in block 910743.)
+
+
+(Stopped it here. The last contract above was in block 940515.)
