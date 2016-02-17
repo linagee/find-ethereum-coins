@@ -141,348 +141,406 @@ Contract Address: 0x87adf4d3e1eb630d41405c6ea5c0021c5b6614ff
 Name: NextGeneration
 Symbol: NXTGEN
 Decimals: 2
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0x896ba935dfbe3c5ddfbc1b637be60964e5244465
 Name: CannabisToken
 Symbol: CANN
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xa07e83efbddccb8de455afdff830f58d2ca71e3d
 Name: BlackLabel
 Symbol: BL
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xcec1bf073f1be9ec1436e3319705964fb0a62e12
 Name: TokenTest
 Symbol: TKT
 Decimals: 0
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x3b683f1ba138a094042e368415d8b9fef86731a4
 Name: CoinAwesome
 Symbol: AWE
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x491e59358171dcf43b7846fc235e8a305057e8e1
 Name: staberium
 Symbol: ŠƂ
 Decimals: 1
+Contract # of trans: 5
 -----------
 -----------
 Contract Address: 0x5baf4ca7862716cfa08c29e8aa286dfbd9b1cee8
 Name: ray_coins
 Symbol: rc
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x95c7e9696014b0b16ea612215fb54d3d76dab76e
 Name: Renato Furtado
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xb5311ab50f72c46d33230109bb361ba5ecb42bc4
 Name: 21xhipster
 Symbol: XHIPSTER
 Decimals: 0
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0xaba5b33cab706e22cbb15cd0d0b7741469f6d1e1
 Name: DFD Org Shares
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xa393545f618a959f0fda319170bd537e241d2196
 Name: Silver Bullion 
 Symbol: %
 Decimals: 3
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xf5c67192cd82567fcc325d8c6754b840788a5bc8
 Name: CryptoFR #0
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x8f3f99ff9932361787b51aa94f10828f1cd285a2
 Name: CryptoFRCoin
 Symbol: CFR
 Decimals: 8
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x8cb66fa82b4faf5b71d8d6c3ba43a775ab43f76b
 Name: CryptoFR Coin
 Symbol: CFR
 Decimals: 8
+Contract # of trans: 6
 -----------
 -----------
 Contract Address: 0xf40f6093d0bc6c174ba3bccf1e3d7d6714a7583e
 Name: Steak Festival
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x8707b60f8535459d408d52d9b2d6b2e0dc0dcd52
 Name: Shekel
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x436bfe4380f2ce5535345e430d1d24849ac0d069
 Name: VoteToken
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xe671b8acf6acd77ec885efa7e3c93be05e887407
 Name: My DAO Shares
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xdb37883b493b1ecebdeab0287c44abcdb176398e
 Name: @
 Symbol: @
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x45e703a12cbd8e40bc778e2ae66ffdc70b96b0ba
 Name: MyEther
 Symbol: %
 Decimals: 2
+Contract # of trans: 4
 -----------
 -----------
 Contract Address: 0x7db53f0198d58526e854d556a925e4f89ce20255
 Name: CatCoin
 Symbol: ch
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xf0e4479db09e3684cca0ba85ca06ba14ef576b0f
 Name: DogCoin
 Symbol: ouf
 Decimals: 0
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xd2b0fb4a6c87c40c4b0d6d6b81e0f2db9d45df3e
 Name: FirstTokenYo
 Symbol: %
 Decimals: 2
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0xeaa6942080c62c4ba4cdc042887f5c1f20d742c3
 Name: Kent
 Symbol: KTC
 Decimals: 10
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x505ce0b1bce7d9f4cd1bdd479cb64af5769a1f35
 Name: My DAO Shares
 Symbol: %
 Decimals: 4
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xe8564fcd756c06ec8e629c327244ef01071ce796
 Name:  Infidels DAO Shares
 Symbol: IDLS
 Decimals: 128
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xb6307611c06c57257ee2ad83beed39cc6650163e
 Name: QDR
 Symbol: %
 Decimals: 2
+Contract # of trans: 5
 -----------
 -----------
 Contract Address: 0xd4e92ed68d95d3a4bdebfd5bce6fa1278bbd76d3
 Name: My Infidel DAO Shares
 Symbol: %
 Decimals: 4
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xce17ecbdef70a835599e8fa78a2750dbc99e056d
 Name: Infidels
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xcb599a6f65d826f7a96ebe884a599f17fffc989b
 Name: ShaopingCoin
 Symbol: WL
 Decimals: 8
+Contract # of trans: 5
 -----------
 -----------
 Contract Address: 0x0ae74afe5375d55db3c6fb7a25f841d71873addf
 Name: My Infidelz DAO Shrs
 Symbol: %
 Decimals: 6
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x1f73edd37328375572feb5dd40315908ca09870b
 Name: My Meshcoin DAO Shrs
 Symbol: %
 Decimals: 6
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x2f9ddc14c42d6307a824d103dfade1922e1f822e
 Name: My Polenta DAO Shrs
 Symbol: %
 Decimals: 6
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x91aaf9dddf7a414cf801acf17d74403736af2cea
 Name: Virtual Gold Coin
 Symbol: VGC
 Decimals: 29
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xfd780d7bd2d0a54715bc094157df163fedfd801c
 Name: Currency with 1000 supply
 Symbol: c
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xfecec2a04af199e5942bfc8ee874f5fe43ece0d3
 Name: Limited Coin
 Symbol: LC
 Decimals: 2
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0x3d2a3c15a64010d622d7fe73b8e9516cb48c3596
 Name: Challenger Coins DAO
 Symbol: CHRG
 Decimals: 6
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xd9c8ce498cc5c27d7155835c54b51188ab2ba87a
 Name: C02 COINS 
 Symbol: C02
 Decimals: 0
+Contract # of trans: 5
 -----------
 -----------
 Contract Address: 0x89cedd4a7e830ad3a33b161487c4501b24dbb159
 Name: MyGDAO
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x86715f3fe82a87a8c092ab518f971b8254ae553d
 Name: SmartShipp
 Symbol: SHPP
 Decimals: 8
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xd0af1e9919f6321f1dfef2d9cbb60ef7a10d6c99
 Name: SmartShipp
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x6f2e02d328010aa86c7f70f8cd888b7fb6e4b070
 Name: JeroenDao
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x02f7c91c192c6c02700baf82001cb9e9cbf297d3
 Name: Minted Dollar
 Symbol: m$
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x91f8a3ac5f2592c3da8d272f0fcf866bc0e058b5
 Name: Kyles
 Symbol: KCoin
 Decimals: 4
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0xf5cae5e944dbb4499cb4cfe09d06e7cf484001dc
 Name: Kyles
 Symbol: KCoin
 Decimals: 4
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0x8c73d949d75f92c159ec99035325a6be5edf6ccb
 Name: Sevierorogeny
 Symbol: !
 Decimals: 0
+Contract # of trans: 4
 -----------
 -----------
 Contract Address: 0xb7e74c6465a8f32832da5ab3c1d4fda9846e69a1
 Name: Originals
 Symbol: O$
 Decimals: 6
+Contract # of trans: 4
 -----------
 -----------
 Contract Address: 0xc07a69be7cce547afa50194194d080d868da4d0e
 Name: My DAO Shares
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xaf6142bce6666e62c3ecb7bf09acd48a51f4dfce
 Name: Mossi
 Symbol: msi
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x802d7363ff914ff2b48ca943c099b0047f93fd68
 Name: new guy
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x89230fdc3b73851da77ebec3cc9f340e48ac0df1
 Name: True
 Symbol: TRU
 Decimals: 0
+Contract # of trans: 5
 -----------
 -----------
 Contract Address: 0x374642afe485d1a181b01f5b028d169be58f3106
 Name: Dinero
 Symbol: Dino
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xa8f1e2fe472383dd7f866cd10e73c9645eb935d2
 Name: Dalla
 Symbol: Dal
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x52d3fbd8fc248cb85d09fe300e932dd25c37c5f5
 Name: RecolProShares
 Symbol: recol
 Decimals: 0
+Contract # of trans: 131
 -----------
 -----------
 Contract Address: 0x2b4695c0160b3ae44e8b4cf59104c16d7b187b98
 Name: ODAN Curr
 Symbol: %
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0x24ca34de9d4c2d8a0c60ab5c82add542c3511fa8
 Name: Ethereum Africa Shares
 Symbol: ATH
 Decimals: 2
+Contract # of trans: 1
 -----------
 -----------
 Contract Address: 0xb67b764445f828a37ffb757f8c94c20f07db8da6
 Name: kobicoin
 Symbol: %
 Decimals: 2
+Contract # of trans: 2
 -----------
 -----------
 Contract Address: 0x41f0a262e414e4d63b86dfe203c68e4ed88657c8
 Name: C02
 Symbol: C02
 Decimals: 0
+Contract # of trans: 3
 -----------
 -----------
 Contract Address: 0xb1b4643d58a842a59cd4df9d1c9ef71aa6896cae
