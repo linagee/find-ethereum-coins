@@ -980,4 +980,4 @@ Symbol: o
 Decimals: 0
 -----------
 
-(Stopped it here.)
+(Stopped it here. The last contract above was in block 887192.)
