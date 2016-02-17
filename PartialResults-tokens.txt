@@ -1,0 +1,982 @@
+Below is a the partial results of me trying to find tokens in the Ethereum blockchain. I stopped it early before it finished. (Would have taken like 4 hours maybe.)
+
+-----------
+Contract Address: 0xf4eced2f682ce333f96f2d8966c613ded8fc95dd
+Name: MistCoin
+Symbol: MC
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x853737186cb24d4152f979b9152f652b67f7e9b7
+Name: bitcoin
+Symbol: btc
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x1130547436810db920fa73681c946fea15e9b758
+Name: bitcoin
+Symbol: btc
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x796ed7f47e100984e7aa7ca51d55e9b68ecb1c19
+Name: Whitcoin
+Symbol: WHIT
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xdafe447177aefb05dd7edae2f5781c98a858d320
+Name: UniCoin
+Symbol: UNC
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xab3652fd492fbb0d6b63acb742f3ed12afbaef52
+Name: Bizilicas
+Symbol: BiZ
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xefb1775952642353c0386410212d7638c9fb2426
+Name: EtherMusic
+Symbol: ETM
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x7739e6fc3c9f24c00bdd73106c35ca5aef6bf7f3
+Name: Ethermusic
+Symbol: ETM
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x61557392045e18d409bd5ff8021e7f5fd37467a3
+Name: SMSH
+Symbol: Smashcoin
+Decimals: 1
+-----------
+-----------
+Contract Address: 0x2df8f1448e50fc36969048beea636d5a7cc71c64
+Name: SmashCoin
+Symbol: SMSH
+Decimals: 6
+-----------
+-----------
+Contract Address: 0xa1162cbb7f6cc8f8476c5f4783761302a9abaf69
+Name: Ethereum Unit
+Symbol: ETH
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xf022a69b94fe837f53d2fa1891313aeea22a52be
+Name: Ether
+Symbol: ETH
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x94f27b5141e17dd8816242d752c7be8e6764bd22
+Name: ETHER
+Symbol: ETH
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x9b743992d6a615f686647480b1c1c0c7c024cdf3
+Name: Markoin
+Symbol: Þ
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xa9d4e6da9e2c780ccb01061a7736a162d7b02d6c
+Name: Djannons
+Symbol: δ
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x99e7dc40d6fb46c1f9d40984cc04c85cbcb694d1
+Name: ETHER
+Symbol: ETH
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x143d673520e5ba5efc760d5af4e598126877373b
+Name: DANCOIN
+Symbol: Ð
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xfbe39dde3f88143eda1e64f4d3582fdbdfebb95f
+Name: NextGeneration
+Symbol: NXTGEN
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x3f664313d0041781086c3a51348c2fc644e3b265
+Name: NextGeneration
+Symbol: NXTGEN
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x87adf4d3e1eb630d41405c6ea5c0021c5b6614ff
+Name: NextGeneration
+Symbol: NXTGEN
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x896ba935dfbe3c5ddfbc1b637be60964e5244465
+Name: CannabisToken
+Symbol: CANN
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xa07e83efbddccb8de455afdff830f58d2ca71e3d
+Name: BlackLabel
+Symbol: BL
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xcec1bf073f1be9ec1436e3319705964fb0a62e12
+Name: TokenTest
+Symbol: TKT
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x3b683f1ba138a094042e368415d8b9fef86731a4
+Name: CoinAwesome
+Symbol: AWE
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x491e59358171dcf43b7846fc235e8a305057e8e1
+Name: staberium
+Symbol: ŠƂ
+Decimals: 1
+-----------
+-----------
+Contract Address: 0x5baf4ca7862716cfa08c29e8aa286dfbd9b1cee8
+Name: ray_coins
+Symbol: rc
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x95c7e9696014b0b16ea612215fb54d3d76dab76e
+Name: Renato Furtado
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xb5311ab50f72c46d33230109bb361ba5ecb42bc4
+Name: 21xhipster
+Symbol: XHIPSTER
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xaba5b33cab706e22cbb15cd0d0b7741469f6d1e1
+Name: DFD Org Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xa393545f618a959f0fda319170bd537e241d2196
+Name: Silver Bullion 
+Symbol: %
+Decimals: 3
+-----------
+-----------
+Contract Address: 0xf5c67192cd82567fcc325d8c6754b840788a5bc8
+Name: CryptoFR #0
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x8f3f99ff9932361787b51aa94f10828f1cd285a2
+Name: CryptoFRCoin
+Symbol: CFR
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x8cb66fa82b4faf5b71d8d6c3ba43a775ab43f76b
+Name: CryptoFR Coin
+Symbol: CFR
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xf40f6093d0bc6c174ba3bccf1e3d7d6714a7583e
+Name: Steak Festival
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x8707b60f8535459d408d52d9b2d6b2e0dc0dcd52
+Name: Shekel
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x436bfe4380f2ce5535345e430d1d24849ac0d069
+Name: VoteToken
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xe671b8acf6acd77ec885efa7e3c93be05e887407
+Name: My DAO Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xdb37883b493b1ecebdeab0287c44abcdb176398e
+Name: @
+Symbol: @
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x45e703a12cbd8e40bc778e2ae66ffdc70b96b0ba
+Name: MyEther
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x7db53f0198d58526e854d556a925e4f89ce20255
+Name: CatCoin
+Symbol: ch
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xf0e4479db09e3684cca0ba85ca06ba14ef576b0f
+Name: DogCoin
+Symbol: ouf
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xd2b0fb4a6c87c40c4b0d6d6b81e0f2db9d45df3e
+Name: FirstTokenYo
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xeaa6942080c62c4ba4cdc042887f5c1f20d742c3
+Name: Kent
+Symbol: KTC
+Decimals: 10
+-----------
+-----------
+Contract Address: 0x505ce0b1bce7d9f4cd1bdd479cb64af5769a1f35
+Name: My DAO Shares
+Symbol: %
+Decimals: 4
+-----------
+-----------
+Contract Address: 0xe8564fcd756c06ec8e629c327244ef01071ce796
+Name:  Infidels DAO Shares
+Symbol: IDLS
+Decimals: 128
+-----------
+-----------
+Contract Address: 0xb6307611c06c57257ee2ad83beed39cc6650163e
+Name: QDR
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xd4e92ed68d95d3a4bdebfd5bce6fa1278bbd76d3
+Name: My Infidel DAO Shares
+Symbol: %
+Decimals: 4
+-----------
+-----------
+Contract Address: 0xce17ecbdef70a835599e8fa78a2750dbc99e056d
+Name: Infidels
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xcb599a6f65d826f7a96ebe884a599f17fffc989b
+Name: ShaopingCoin
+Symbol: WL
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x0ae74afe5375d55db3c6fb7a25f841d71873addf
+Name: My Infidelz DAO Shrs
+Symbol: %
+Decimals: 6
+-----------
+-----------
+Contract Address: 0x1f73edd37328375572feb5dd40315908ca09870b
+Name: My Meshcoin DAO Shrs
+Symbol: %
+Decimals: 6
+-----------
+-----------
+Contract Address: 0x2f9ddc14c42d6307a824d103dfade1922e1f822e
+Name: My Polenta DAO Shrs
+Symbol: %
+Decimals: 6
+-----------
+-----------
+Contract Address: 0x91aaf9dddf7a414cf801acf17d74403736af2cea
+Name: Virtual Gold Coin
+Symbol: VGC
+Decimals: 29
+-----------
+-----------
+Contract Address: 0xfd780d7bd2d0a54715bc094157df163fedfd801c
+Name: Currency with 1000 supply
+Symbol: c
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xfecec2a04af199e5942bfc8ee874f5fe43ece0d3
+Name: Limited Coin
+Symbol: LC
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x3d2a3c15a64010d622d7fe73b8e9516cb48c3596
+Name: Challenger Coins DAO
+Symbol: CHRG
+Decimals: 6
+-----------
+-----------
+Contract Address: 0xd9c8ce498cc5c27d7155835c54b51188ab2ba87a
+Name: C02 COINS 
+Symbol: C02
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x89cedd4a7e830ad3a33b161487c4501b24dbb159
+Name: MyGDAO
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x86715f3fe82a87a8c092ab518f971b8254ae553d
+Name: SmartShipp
+Symbol: SHPP
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xd0af1e9919f6321f1dfef2d9cbb60ef7a10d6c99
+Name: SmartShipp
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x6f2e02d328010aa86c7f70f8cd888b7fb6e4b070
+Name: JeroenDao
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x02f7c91c192c6c02700baf82001cb9e9cbf297d3
+Name: Minted Dollar
+Symbol: m$
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x91f8a3ac5f2592c3da8d272f0fcf866bc0e058b5
+Name: Kyles
+Symbol: KCoin
+Decimals: 4
+-----------
+-----------
+Contract Address: 0xf5cae5e944dbb4499cb4cfe09d06e7cf484001dc
+Name: Kyles
+Symbol: KCoin
+Decimals: 4
+-----------
+-----------
+Contract Address: 0x8c73d949d75f92c159ec99035325a6be5edf6ccb
+Name: Sevierorogeny
+Symbol: !
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xb7e74c6465a8f32832da5ab3c1d4fda9846e69a1
+Name: Originals
+Symbol: O$
+Decimals: 6
+-----------
+-----------
+Contract Address: 0xc07a69be7cce547afa50194194d080d868da4d0e
+Name: My DAO Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xaf6142bce6666e62c3ecb7bf09acd48a51f4dfce
+Name: Mossi
+Symbol: msi
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x802d7363ff914ff2b48ca943c099b0047f93fd68
+Name: new guy
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x89230fdc3b73851da77ebec3cc9f340e48ac0df1
+Name: True
+Symbol: TRU
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x374642afe485d1a181b01f5b028d169be58f3106
+Name: Dinero
+Symbol: Dino
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xa8f1e2fe472383dd7f866cd10e73c9645eb935d2
+Name: Dalla
+Symbol: Dal
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x52d3fbd8fc248cb85d09fe300e932dd25c37c5f5
+Name: RecolProShares
+Symbol: recol
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x2b4695c0160b3ae44e8b4cf59104c16d7b187b98
+Name: ODAN Curr
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x24ca34de9d4c2d8a0c60ab5c82add542c3511fa8
+Name: Ethereum Africa Shares
+Symbol: ATH
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xb67b764445f828a37ffb757f8c94c20f07db8da6
+Name: kobicoin
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x41f0a262e414e4d63b86dfe203c68e4ed88657c8
+Name: C02
+Symbol: C02
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xb1b4643d58a842a59cd4df9d1c9ef71aa6896cae
+Name: DAO kobi
+Symbol: &
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xdaaed119f58abe614da0f71c1d4d36e6cd0a9de2
+Name: DAO Dollar 2nd
+Symbol: non
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xa8a937c840c9d808e20b7f89815f658384257e97
+Name: meh token
+Symbol: AA
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x17fa509a1dbf82e7173072e70b95e264dfeeabf5
+Name: JeroenCoin
+Symbol: J$
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xe6069d0158fddf0fd9b13f8f9fe69829c4b869ed
+Name: asdasd222
+Symbol: AAAA
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x2f5185bae36d9c15879b7a0e4b1cac1482499a42
+Name: @
+Symbol: @
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x078eba06f5e04f449e7eb2fde2b08071eb77d621
+Name: HareCoin
+Symbol: #
+Decimals: 1
+-----------
+-----------
+Contract Address: 0x02a23562cb84fe8e2aca19e148cb37ce409341ad
+Name: CH4
+Symbol: CH4
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xc9f720aac2001dd74c8545165921775b0bd6db24
+Name: CH4
+Symbol: CH4
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x7a47bacaab34d55a5485be5c40ffd2768659716d
+Name: BitConroys
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xea6abd578036eae736b4dbadd77ff0d53cd13158
+Name: HansCoin
+Symbol: %
+Decimals: 81
+-----------
+-----------
+Contract Address: 0x2eb9041036fd3def4ffd63cdad89f5fd844d23f1
+Name: ITABIT DAO Shares
+Symbol: #
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xa2535aa323c35c4631c601fa4db03db3c03bb40f
+Name: 1st Token
+Symbol: %
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x2c8d3900a2dada36a445800e9019cf5d23f703c0
+Name: AFR
+Symbol: %
+Decimals: 12
+-----------
+-----------
+Contract Address: 0x64f4cf15c6edfebcb9d008ccdb077dfcbdc0a986
+Name: AFR
+Symbol: 100%
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x4b66f91026bfe41e5abd113d0b001ce4d7a900a5
+Name: AFRO
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x1556d588eb8e7eca84a6a59447c843cb706f26b4
+Name: Gourmet Coins
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x94cf02f0175d26d14f980daa0ee64929fbf5196c
+Name: Slock DAO Ownership
+Symbol: %
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xcc0ee510bc4b5cd4d31da49f672ab5aa6806f70a
+Name: SubEthaNomic
+Symbol: SEN
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x883e798e2a75ba7551982501e7029fe7a0beb3c8
+Name: AFRO
+Symbol: AFRO
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x314569f698bc934a4549f1d32397a8e8787fd0b6
+Name: Coin
+Symbol: CNS
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x235735225df373b88dbd42b009d4bb3e7d0ac1c7
+Name: RynTestShares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xa1749cdbcfe07eff42a3ef272b0ba381671e894b
+Name: Muh Shares
+Symbol: §
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x95ec935cc06dad44decf059fd74a28f8bd3bb35d
+Name: ITABIT_EUR
+Symbol: I€
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xd7bb83fc1777fec0abbd01dd27ec86871734cfe4
+Name: Catena
+Symbol: CAT
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x38b1a2d1ccab24e8c8e66ffbacfd54a0b049186d
+Name: catenaDAO
+Symbol: ß
+Decimals: 1
+-----------
+-----------
+Contract Address: 0x8e72a6838fbeb72a5627a3597e73b6108feda705
+Name: CatCoin
+Symbol: ��
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xa8720834044e6a3846c022ad81e204f9062aaf61
+Name: QhCoin
+Symbol: QC
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x87f6aee9f8e1390effa7188f190405d0099ea584
+Name: qhgamecoin
+Symbol: qg
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x225e63f537d667c87835a9b9a3a29e9c564c7ee4
+Name: XsjqhCoin
+Symbol: XQ
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x050a05eccbcecdee300364bc34ef9ed464700fe1
+Name: DIIT DAO Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xe404f81d94313f3a6620a7a24ce63bf6b53a7b10
+Name: DIIT DAO Token
+Symbol: /$/
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x45109f9964f1de3ceb3357031be393243e596d5e
+Name: Eka DAO shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x9be175f189d1e1d50b1f39d1396a29c077f34375
+Name: nowayhose
+Symbol: NWH
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x477e9b642a72ac820cbf03edc0db0323d5c3b7d2
+Name: Jams1st
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x1614beaa924415aa8e439134660f5c40bb060140
+Name: Beta
+Symbol: β
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xd82a1b174822778dfaa385529468577b700749a1
+Name: AI
+Symbol: AI
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x4bdeb1996c7f405d9c9537a2c51e0d0f49cf2d86
+Name: Hellcoin
+Symbol: >
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xac9f5810be44f23cee69786ad6cd5b7682f4c72d
+Name: Fluid
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xfd58d7842a913fe3774e8aa99f7d2a8e05a9d843
+Name: REITs
+Symbol: REITs
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xcf94b272b863b0a632bdd500d70d5138ba7bd4b6
+Name: Quints
+Symbol: Quints
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x2f28ec9bfe4cca27b9bd6d50d558fb95d02b35fa
+Name: BABYCOIN
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x95e83c295e27b17ab24b6b8f1f9a04ba2e262ce1
+Name: AI
+Symbol: $
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x6effb8f9cdb66b3be22049f00b0932d7533e2875
+Name: Buttons
+Symbol: (::)
+Decimals: 18
+-----------
+-----------
+Contract Address: 0x38e0344babad72822c28ecac1c801e255f3afd3d
+Name: Laramide
+Symbol: *SevierOrogeny*
+Decimals: 1
+-----------
+-----------
+Contract Address: 0xa91c687d68e924d661dfbb0acbdeaf0d2b98b201
+Name: Tokenisor
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x618aaf404b903ba7fb828e6ca044712acf040e44
+Name: Superbank
+Symbol: LoL
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x7c9102b8eb796b4d0525bdd681435f563a89e0c2
+Name: VUNK*
+Symbol: V
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x854f731a3680bef632ac419a80a5196f7428fee7
+Name: Merits
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x7576c3807b044e884f9fb8a4c0f639f289d1cffd
+Name: Daniel
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x7327beb152df6ad62addc6ad282a5d738f5500c0
+Name: Paul Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x9134f2859a042427b63eb84ea6fd2f2fb5f72597
+Name: TulingCoin
+Symbol: TL
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xe9d04cbda95131b544f55ad3d4c2ded7d00cafbb
+Name: Blockchain Industries Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x744f580a064f76e5568681acf26eca8d38f0f9e1
+Name: pieshopcoin
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x5a2ebc3ac433fd6c9ad2b1a56033dc2d45945315
+Name: pieshopdollar
+Symbol: $
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xfa34b0e46d3df249f41933c26b1d72f29e72d85f
+Name: DJR Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x253d5902e135aee388e562a69cc3f7fdef4b4741
+Name: Practice Tokeneum
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x7bdd870bb886a42fbae0ff7cc16d581f965c55bb
+Name: pieshopcoin
+Symbol: PSC
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x320bc327cfba99a0d94e2530e7a590fcc607a7e7
+Name: MyToken
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x3ae241c316ecebf1e1be69ee47966500ff0ef10f
+Name: GadgyCoin
+Symbol: ��
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xb9550330bff5b4aada6afcbb6732442c74f80fd7
+Name: Fiddlesticks
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xfaf153857230878e00e5ca7fef43197ea8e5c18d
+Name: sperans
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x4c7a963f349cc5fc1f923546543ee1bfd5979b29
+Name: TITO
+Symbol: TITO
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xe059ebb4cceba816f57992348980e40cf5e1cfb5
+Name: Holy Coin
+Symbol: HOC
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xa62d33e7cf4a3516ba8ebe02e087d08d15fa997e
+Name: Factorial Coin
+Symbol: !
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x02509c89a9995d60b232da2c5d5253ac8a4f4184
+Name: FactoReal
+Symbol: !
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x5e8d6d89fc570e6e1906377c696204d8a7de3086
+Name: rustyjusty
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x50173c2b98e85e1c010041d93ff98e9544e06c2c
+Name: Sebastian DAO Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xd6ddf7bb8a1be6207876ed9184551c349536fdc4
+Name: Zolfini
+Symbol: ⚕
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xf8fda34d8376327d223e547d044c253ecf8d40c4
+Name: Globodyne Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x070e22e71da64b423c83a4e7d188bb752c369e17
+Name: FidelioCoin
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xd04fa77db62e9f18130db565fb5857b66bc5e0bb
+Name: PPP
+Symbol: P
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xeebafcdc08cc06c0322eb01b811527fdfb08c5ba
+Name: RadioCoin
+Symbol: ��
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xcc2ee7b5eee0d247afed2319202d51907be0bd4e
+Name: peseta
+Symbol: PST
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xd917e598a6931d8d393911f2c825d8c50c6a446b
+Name: MingCoin
+Symbol: %
+Decimals: 1
+-----------
+-----------
+Contract Address: 0x36fa1ac86209cfa7b9c46764ff7f03bf8e80907a
+Name: Bits
+Symbol: BIT
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x576d813a55855db7d3a13437b9484cc0f182abc7
+Name: suncoin
+Symbol: sun
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xf4a5fbd6deb3c10320b455cb10f10929e7c72ab6
+Name: T Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x08be361635d01443d6f26d1d2d19968a95eec321
+Name: iTingCoin
+Symbol: IT
+Decimals: 8
+-----------
+-----------
+Contract Address: 0xefd98ff04917ec82822eb5c9576305253bad1a7e
+Name: AyeAyeCoin
+Symbol: %
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xcc401705532ed75c30e273e9d732ac40258d9315
+Name: Evan
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xb1803c78bb9f7644c4fa2aea57cde813c6b81f76
+Name: % Coin
+Symbol: %
+Decimals: 4
+-----------
+-----------
+Contract Address: 0xcfc00378ca44da2a0c465367f1f104a9d9e7a83c
+Name: 100% Coin
+Symbol: %
+Decimals: 4
+-----------
+-----------
+Contract Address: 0x97e16e39b93ac6e5c97f0c2b8791ae86b6532082
+Name: 101% Coin
+Symbol: %
+Decimals: 4
+-----------
+-----------
+Contract Address: 0xce66925bde436ac11fe80b549026bc74e579783a
+Name: BisToken
+Symbol: ⚾
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xb31142ca6b76d8c8a725d32bd2b6088754e5b30e
+Name: Solo Coin
+Symbol: o
+Decimals: 0
+-----------
+
+(Stopped it here.)
