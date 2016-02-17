@@ -57,6 +57,7 @@ Contract Address: 0x7739e6fc3c9f24c00bdd73106c35ca5aef6bf7f3
 Name: Ethermusic
 Symbol: ETM
 Decimals: 0
+URL: https://www.reddit.com/r/ethereum/comments/3rcnrx/ethereum_wallet_beta3_contract_deployment_and/cwnywg9
 Contract # of trans: 2
 -----------
 -----------
@@ -92,6 +93,9 @@ Contract Address: 0x94f27b5141e17dd8816242d752c7be8e6764bd22
 Name: ETHER
 Symbol: ETH
 Decimals: 8
+URL: https://bitcointalk.org/index.php?topic=1242495.0
+URL: http://bitledger.net/account/0x94f27b5141e17dd8816242d752c7be8e6764bd22
+URL: https://www.reddit.com/r/ethereum/comments/3rcnrx/ethereum_wallet_beta3_contract_deployment_and/
 Contract # of trans: 103
 -----------
 -----------
@@ -232,6 +236,7 @@ Contract Address: 0x8cb66fa82b4faf5b71d8d6c3ba43a775ab43f76b
 Name: CryptoFR Coin
 Symbol: CFR
 Decimals: 8
+URL: https://cryptofr.com/topic/2142/vf-construire-avec-ethereum-1-faire-votre-propre-crypto-monnaie-sans-une-ligne-de-code/3
 Contract # of trans: 6
 -----------
 -----------
@@ -344,6 +349,7 @@ Contract Address: 0xcb599a6f65d826f7a96ebe884a599f17fffc989b
 Name: ShaopingCoin
 Symbol: WL
 Decimals: 8
+URL: http://ethfans.org/topics/118
 Contract # of trans: 5
 -----------
 -----------
@@ -400,6 +406,8 @@ Contract Address: 0xd9c8ce498cc5c27d7155835c54b51188ab2ba87a
 Name: C02 COINS 
 Symbol: C02
 Decimals: 0
+URL: http://webcache.googleusercontent.com/search?q=cache:wpxn0RRgmiEJ:www.polonibox.com/%3Fpage%3D6264+&cd=6&hl=en&ct=clnk&gl=us
+Nickname: cRypT0gElDiNG
 Contract # of trans: 5
 -----------
 -----------
@@ -484,6 +492,7 @@ Contract Address: 0x802d7363ff914ff2b48ca943c099b0047f93fd68
 Name: new guy
 Symbol: %
 Decimals: 2
+URL: http://bitledger.net/account/0x802d7363ff914ff2b48ca943c099b0047f93fd68
 Contract # of trans: 2
 -----------
 -----------
@@ -673,6 +682,11 @@ Contract Address: 0xcc0ee510bc4b5cd4d31da49f672ab5aa6806f70a
 Name: SubEthaNomic
 Symbol: SEN
 Decimals: 0
+URL: https://m.reddit.com/r/ethereum/comments/3wrlc0/game_subethanomic/
+URL: https://github.com/interfect/SubEthaNomic
+URL: https://gist.github.com/interfect/2a23940730211e87d802
+URL: https://gist.github.com/interfect
+Nickname: interfect
 Contract # of trans: 8
 -----------
 -----------
@@ -680,6 +694,7 @@ Contract Address: 0x883e798e2a75ba7551982501e7029fe7a0beb3c8
 Name: AFRO
 Symbol: AFRO
 Decimals: 2
+URL: http://bitledger.net/account/0x883e798e2a75ba7551982501e7029fe7a0beb3c8
 Contract # of trans: 1
 -----------
 -----------
@@ -750,6 +765,7 @@ Contract Address: 0x225e63f537d667c87835a9b9a3a29e9c564c7ee4
 Name: XsjqhCoin
 Symbol: XQ
 Decimals: 8
+URL: http://bitledger.net/account/0x225e63f537d667c87835a9b9a3a29e9c564c7ee4
 Contract # of trans: 1
 -----------
 -----------
@@ -904,6 +920,7 @@ Contract Address: 0x9134f2859a042427b63eb84ea6fd2f2fb5f72597
 Name: TulingCoin
 Symbol: TL
 Decimals: 8
+URL: http://bitledger.net/account/0x9134f2859a042427b63eb84ea6fd2f2fb5f72597
 Contract # of trans: 1
 -----------
 -----------
@@ -953,6 +970,7 @@ Contract Address: 0x320bc327cfba99a0d94e2530e7a590fcc607a7e7
 Name: MyToken
 Symbol: %
 Decimals: 2
+URL: http://www.bitledger.net/account/0x320bc327cfba99a0d94e2530e7a590fcc607a7e7
 Contract # of trans: 1
 -----------
 -----------
@@ -960,6 +978,7 @@ Contract Address: 0x3ae241c316ecebf1e1be69ee47966500ff0ef10f
 Name: GadgyCoin
 Symbol: ��
 Decimals: 2
+URL: http://www.bitledger.net/account/0x3ae241c316ecebf1e1be69ee47966500ff0ef10f
 Contract # of trans: 1
 -----------
 -----------
@@ -1089,6 +1108,7 @@ Decimals: 8
 Contract Address: 0xefd98ff04917ec82822eb5c9576305253bad1a7e
 Name: AyeAyeCoin
 Symbol: %
+URL: http://bitledger.net/account/0xefd98ff04917ec82822eb5c9576305253bad1a7e
 Decimals: 0
 -----------
 -----------
@@ -1353,6 +1373,11 @@ Decimals: 0
 Contract Address: 0x3ee7192f069f3ab16077f843f2f469bd327e206c
 Name: PreVNK
 Symbol: V
+URL: http://www.freemyvunk.com/#!the-rewards/g9xzy
+URL: http://www.blockchainga.me/freemyvunk.html
+URL: https://www.youtube.com/watch?v=ofi_lPIAxLU
+URL: https://twitter.com/general_beck/media
+Nickname: general_beck
 Decimals: 0
 -----------
 -----------
@@ -1366,6 +1391,7 @@ Contract Address: 0x3c725341328f07738c471dbf9667ba287bb75b6f
 Name: Yer
 Symbol: Y$
 Decimals: 0
+URL: http://bitledger.net/account/0x3c725341328f07738c471dbf9667ba287bb75b6f
 -----------
 -----------
 Contract Address: 0x136e6d2c8fc33ff2a4307516eb8e9bd7811de325
@@ -1432,6 +1458,7 @@ Contract Address: 0x57845207101fd09aeb8fb124bfb4060d3a41565b
 Name: 1
 Symbol: α
 Decimals: 0
+URL: https://www.reddit.com/r/ethereum/comments/43zt59/just_created_a_token/czmgadj
 -----------
 -----------
 Contract Address: 0x0f9719154ded7f84f0c5239a7e74804d8522e6a0
@@ -1480,6 +1507,7 @@ Contract Address: 0x3e6a4c18ac20a8b989c55b0b39fced4e6617e984
 Name: LoveCoin
 Symbol: LC
 Decimals: 8
+URL: http://bitledger.net/account/0x3e6a4c18ac20a8b989c55b0b39fced4e6617e984
 -----------
 -----------
 Contract Address: 0xe6fe45f04b964a1b63236231ac1e2ea718233236
@@ -1696,6 +1724,9 @@ Contract Address: 0x89205a3a3b2a69de6dbf7f01ed13b2108b2c43e7
 Name: Unicorns
 Symbol: ��
 Decimals: 0
+URL: https://gist.github.com/alexvandesande/5cca5cae48006b4a4909
+URL: https://quemcasaquercoisas.wordpress.com/tag/quarto/
+Nickname: alexvandesande
 -----------
 -----------
 Contract Address: 0x9cd2d24e90e06d8e2b1edf98fe6296070bf7f88d
