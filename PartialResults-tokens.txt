@@ -1,4 +1,5 @@
-Below is a the partial results of me trying to find tokens in the Ethereum blockchain. I stopped it early before it finished. (Would have taken like 4 hours maybe.)
+Below is a the partial results of me trying to find tokens in the Ethereum blockchain.
+I stopped it early before it finished. (Would have taken like 4 hours maybe.)
 
 -----------
 Contract Address: 0xf4eced2f682ce333f96f2d8966c613ded8fc95dd
