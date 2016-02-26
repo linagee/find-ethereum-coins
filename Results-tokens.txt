@@ -1885,7 +1885,271 @@ Symbol: ☺
 Decimals: 1
 Contract # of trans: 3
 -----------
+-----------
+Contract Address: 0x4d5a3fc0c3526d2aa30b55091c351e525c119d5d
+Name: My DAO Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x19e53f65918a7bd89640f7ce877a358ae7e1e3c1
+Name: Test shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xedb37809291efbc00cca24b630c3f18c2a98f144
+Name: Ƀitnation Shares
+Symbol: XBN
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x87148e1e98a69adf4a4fb27344baf9c08d533442
+Name: favs.pw
+Symbol: ♥
+Decimals: 1
+-----------
+-----------
+Contract Address: 0x332107521efba3b76d3ceb3b73b8595ba771a593
+Name: RMNDAOS
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xe221a4ec95f45d6cd15cc64ff3b8e54c17536c89
+Name: WOTANS
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xb026c08eeaee94da8c7347406d76d098a3759112
+Name: Network DAC shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x38acb2cb5c5f27f2d99cd89a5d410cb109c5a0ec
+Name: My DAO Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x0d10d2094abd0824d9bc9ef77a8c502a5e179ca1
+Name: AkivaCoin
+Symbol: AKIVA
+Decimals: 100
+-----------
+-----------
+Contract Address: 0x0edab145c00c3369a97572b9895a3646fc223eca
+Name: My DAO shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x31eddd9732e2f47dd7da3a2d88d4c2b3e150e0ee
+Name: Athos Coin
+Symbol: $
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x2dda158a8720a4ec2d4a6a490df9b979e27a0ce0
+Name: tuna
+Symbol: t
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x3d5467556a30a4564a71fae894f374dd2ac82f92
+Name: tuna
+Symbol: g
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x927e57532ad8468515bb026df6dc29428911b26c
+Name: Sustcoin
+Symbol: SUC
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xfeb78a10f448595510b077183341655b83e03e21
+Name: Gold Bar
+Symbol: Au
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x17c1b063dd71f4c9618cf3b8c55ad6cf81751c7a
+Name: Gold Bar
+Symbol: Au
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x069cb463794f4dec5f1e54157fd18c7d2c0a0e29
+Name: Gold Bar
+Symbol: Au
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x784b994d413f8c665af1b464a9cb5483f1b181eb
+Name: Gold Bar
+Symbol: Au
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xc4244e0db9bf6b1e2904cd7a00e4f128fbb945e7
+Name: Gold Bar
+Symbol: Au
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xb2ea137dd4da22f3b4b269fb9a5349d46d70eabd
+Name: Gold Bar
+Symbol: Au
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xb19c5b57f672d54ce051c8c487af211a75ad25d9
+Name: FitShares
+Symbol: $
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x2ec315753410ecec81ce87db4d25a11d98cd4029
+Name: My DAO Shares
+Symbol: X
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x9ce7c91a5a7a09f283c49738e3a234770086e5fc
+Name: Happy Birthday Shares
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x1992e866288866e49234f63b486727541bcc0f34
+Name: BitderbergGroup
+Symbol: BG
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x1480aa0ccc1dcc3622854c86471e8704572e70af
+Name: altschuler
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x44f3f3e46ff7de0a3b66fc019036ad2efc962116
+Name: Hassan
+Symbol: eHAS
+Decimals: 8
+-----------
+-----------
+Contract Address: 0x5333ca7beee6f77e8ad1463858cf0c2b45381a6b
+Name: Color Fortune Coin
+Symbol: CFC
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x483ddd706d79475b63d9f985d01f019de6cb5408
+Name: mkvtoken
+Symbol: mkvs
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x16ff4dc30a16bb07322c33789fe2af0f2901bfe8
+Name: mkToken
+Symbol: mk
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x629634c639d291516b0767aa328332d301ccfd19
+Name: smythcoin
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0xc60c058da880e82dbefc23f58c7cf0296753fc2d
+Name: Jcoin
+Symbol: *
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x6a705e173a748817e7e6a59ad3159137386078cb
+Name: Gold Bar
+Symbol: Au
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x430dd96e66e622c8df53c771fc272d853ba29811
+Name: Water
+Symbol: H2O
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x48b47d3df0c7451414dc47c5834be6449e922de7
+Name: Gold Bar
+Symbol: Au
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x617dfa82f5c0cd3f6b08b01c007da56c02f095eb
+Name: Water
+Symbol: H2O
+Decimals: 0
+-----------
+-----------
+Contract Address: 0xb49ec58e1267378d37cc03704833f44ccb59890e
+Name: Silver
+Symbol: Ag
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x1d8f6083b6b3f87ff2b5a9ce49276b33cbb479ce
+Name: Sankara
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x93283c9dcee03fa5e452ccde96bf988b970c36b8
+Name: meetupcoin
+Symbol: @
+Decimals: 1
+-----------
+-----------
+Contract Address: 0xb237c9083633a7ee73f8369cec362c501d5bba16
+Name: MB COIN
+Symbol: %
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x3b17f8e9e8735f4201e2d7cdff68e891f4f8db1d
+Name: WESSELIUSCOIN
+Symbol: WC
+Decimals: 2
+-----------
+-----------
+Contract Address: 0x5b0e56bd763fb97d8118fe86bbfda45c1da02de6
+Name: EtherDollar
+Symbol: E
+Decimals: 0
+-----------
+-----------
+Contract Address: 0x03ebfe0ec11dd11041e39cc7a0a51f40238f6050
+Name: EtherDollar
+Symbol: E
+Decimals: 4
+-----------
+-----------
+Contract Address: 0x875a532348a5de3ab419580bfe22eda95926fa79
+Name: EtherDollar
+Symbol: E
+Decimals: 4
+-----------
+-----------
+Contract Address: 0x25c6413359059694a7fca8e599ae39ce1c944da2
+Name: EtherDollar
+Symbol: E
+Decimals: 4
+-----------
 
 
 
-(Stopped it here. The last contract above was in block 1013043.)
+(Stopped it here. The last contract above was in block 1061923.)
