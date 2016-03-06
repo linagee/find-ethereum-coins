@@ -1379,8 +1379,8 @@ Symbol: V
 URL: http://www.freemyvunk.com/#!the-rewards/g9xzy
 URL: http://www.blockchainga.me/freemyvunk.html
 URL: https://www.youtube.com/watch?v=ofi_lPIAxLU
-URL: https://twitter.com/general_beck/media
-Nickname: general_beck
+URL: https://twitter.com/FreeMyVunk
+Nickname: FreeMyVunk
 Decimals: 0
 Contract # of trans: 80
 -----------
